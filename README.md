@@ -15,16 +15,16 @@ Key features (singleplayer focused, multiplayer untested, all aspects WIP):
 
 Supported games:
 
-Command and Conquer Generals Zero Hour
-Lord of the Rings The Battle for Middle-earth 2
-Lord of the Rings The Battle for Middle-earth 2 - Rise of the Witch-King
-Command and Conquer 3 Tiberium Wars
-Command and Conquer 3 Kane's Wrath
-Command and Conquer Red Alert 3
-Command and Conquer Red Alert 3 Uprising
+- Command and Conquer Generals Zero Hour
+- Lord of the Rings The Battle for Middle-earth 2
+- Lord of the Rings The Battle for Middle-earth 2 - Rise of the Witch-King
+- Command and Conquer 3 Tiberium Wars
+- Command and Conquer 3 Kane's Wrath
+- Command and Conquer Red Alert 3
+- Command and Conquer Red Alert 3 Uprising
 
 Not yet supported missing sage engine games:
 
-Command and Conquer Generals
-Lord of the Rings The Battle for Middle-earth 1
-Command and Conquer 4
+- Command and Conquer Generals
+- Lord of the Rings The Battle for Middle-earth 1
+- Command and Conquer 4
