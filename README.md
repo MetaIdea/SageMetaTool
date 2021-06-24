@@ -45,6 +45,16 @@ Demonstration of the extended lua scripting framework:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/sMp1uMzCIdk/0.jpg)](https://www.youtube.com/watch?v=sMp1uMzCIdk)
 
+One of many new scripts: Nature generator for BFME2 and ROTWK:
+
+![3](https://user-images.githubusercontent.com/26028969/123271899-8f40bc00-d501-11eb-9ba1-cf3d2df106f3.JPG)
+![saddsa](https://user-images.githubusercontent.com/26028969/123271936-9962ba80-d501-11eb-9f5a-0ffdae52adf5.JPG)
+
+Lua live script console in C&C generals zero hour:
+
+![script console](https://user-images.githubusercontent.com/26028969/123272044-af707b00-d501-11eb-86ab-486bd4d24d6a.JPG)
+
+
 Become a Patreon and get early access to SageMetaTool: https://www.patreon.com/metaidea
 
 Donation: https://www.paypal.me/meta888
