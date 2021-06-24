@@ -5,10 +5,10 @@ A universal dll mod for most sage engine games that brings important engine upda
 Key features (singleplayer focused, multiplayer untested, all aspects WIP):
 - Fluent 60 fps with proper gamespeed
 - Unlimited camera zoom (narrow and wide)
-- New gamemodes, live mod/config loader, all via a completely new skirmish setup sub menu
-- First and third person mode with real WASD unit control
-- Meta control ingame menu to change many different options including spawner menu
-- Ingame lua script console (Useable commands: https://pastebin.com/xHHGCVZ1)
+- Dozens of new unique universal gamemodes compatible with any map + live mod/config loader, all via a completely new skirmish setup sub menu
+- First and third person mode with real WASD unit control (C&C renegade vibes)
+- Meta control ingame menu to change countless different options including spawner menu, unit colorizer, AI live adjusting
+- Powerfull ingame lua script console (Useable commands: https://pastebin.com/xHHGCVZ1)
 - Heavy extension of the sage lua framework, fix of player and coordinate parameters, register of every object to be accessible via lua
 - Complete Lua scripting framework for C&C generals zero hour (Useable commands: https://pastebin.com/M4wZcJKv)
 
@@ -31,6 +31,13 @@ Not yet supported missing sage engine games:
 - Lord of the Rings The Battle for Middle-earth 1
 - Command and Conquer 4
 
+Previews (click the links):
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hn2ikuj7288/0.jpg)](https://www.youtube.com/watch?v=hn2ikuj7288)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/iyZFXCaPxiU/0.jpg)](https://www.youtube.com/watch?v=iyZFXCaPxiU)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/sMp1uMzCIdk/0.jpg)](https://www.youtube.com/watch?v=sMp1uMzCIdk)
 
 Become a Patreon and get early access to SageMetaTool: https://www.patreon.com/metaidea
 
