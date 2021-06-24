@@ -31,11 +31,17 @@ Not yet supported missing sage engine games:
 - Lord of the Rings The Battle for Middle-earth 1
 - Command and Conquer 4
 
-Previews (click the links):
+# Previews (click the links):
+
+Gamemode menu:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hn2ikuj7288/0.jpg)](https://www.youtube.com/watch?v=hn2ikuj7288)
 
+First person mode:
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/iyZFXCaPxiU/0.jpg)](https://www.youtube.com/watch?v=iyZFXCaPxiU)
+
+Demonstration of the extended lua scripting framework:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/sMp1uMzCIdk/0.jpg)](https://www.youtube.com/watch?v=sMp1uMzCIdk)
 
