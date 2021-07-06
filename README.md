@@ -1,13 +1,13 @@
 # SageMetaTool
-A universal dll mod for most sage engine games that brings important engine updates and adds unique new features.
 
+A universal dll mod for most sage engine games that brings important engine updates and adds unique new features.
 
 Key features (singleplayer focused, multiplayer untested, all aspects WIP):
 - Fluent 60 fps with proper gamespeed
 - Unlimited camera zoom (narrow and wide)
 - Dozens of new unique universal gamemodes compatible with any map + live mod/config loader, all via a completely new skirmish setup sub menu
 - First and third person mode with real WASD unit control (C&C renegade vibes)
-- Meta control ingame menu to change countless different options including spawner menu, unit colorizer, AI live adjusting
+- Meta control ingame menu to change countless different options including object spawner menu, unit colorizer, AI live adjusting/scripting
 - Powerfull ingame lua script console (Useable commands: https://pastebin.com/xHHGCVZ1)
 - Heavy extension of the sage lua framework, fix of player and coordinate parameters, register of every object to be accessible via lua
 - Complete Lua scripting framework for C&C generals zero hour (Useable commands: https://pastebin.com/M4wZcJKv)
@@ -35,15 +35,15 @@ Not yet supported missing sage engine games:
 
 Gamemode menu:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hn2ikuj7288/0.jpg)](https://www.youtube.com/watch?v=hn2ikuj7288)
+[![Video Preview 1](https://img.youtube.com/vi/hn2ikuj7288/0.jpg)](https://www.youtube.com/watch?v=hn2ikuj7288)
 
 First person mode:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/iyZFXCaPxiU/0.jpg)](https://www.youtube.com/watch?v=iyZFXCaPxiU)
+[![Video Preview 2](https://img.youtube.com/vi/iyZFXCaPxiU/0.jpg)](https://www.youtube.com/watch?v=iyZFXCaPxiU)
 
 Demonstration of the extended lua scripting framework:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/sMp1uMzCIdk/0.jpg)](https://www.youtube.com/watch?v=sMp1uMzCIdk)
+[![Video Preview 3](https://img.youtube.com/vi/sMp1uMzCIdk/0.jpg)](https://www.youtube.com/watch?v=sMp1uMzCIdk)
 
 One of many new scripts: Nature generator for BFME2 and ROTWK:
 
@@ -54,7 +54,12 @@ Lua live script console in C&C generals zero hour:
 
 ![script console](https://user-images.githubusercontent.com/26028969/123272044-af707b00-d501-11eb-86ab-486bd4d24d6a.JPG)
 
+# More
 
-Become a Patreon and get early access to SageMetaTool: https://www.patreon.com/metaidea
+[![Discord](https://discord.com/assets/ff41b628a47ef3141164bfedb04fb220.png)](https://discord.gg/3vEazayfaV)
 
-Donation: https://www.paypal.me/meta888
+Become a Patreon and get early access to SageMetaTool:
+
+[![Patreon](https://not2grand.co.uk/wp-content/uploads/2018/07/patreon-logo.png)](https://www.patreon.com/metaidea)
+
+[![Donate](https://www.paypalobjects.com/webstatic/i/logo/rebrand/ppcom.svg)](https://www.paypal.me/meta888)
