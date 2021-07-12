@@ -36,7 +36,8 @@ Not yet supported missing sage engine games:
 # Previews (click the links):
 
 Launcher:
-![preview](https://user-images.githubusercontent.com/26028969/125346654-4c347480-e35a-11eb-8d91-5e75e2fc5558.JPG)
+
+![preview](https://user-images.githubusercontent.com/26028969/125347144-dd0b5000-e35a-11eb-9f2a-9577563aceb7.JPG)
 
 Gamemode menu:
 
