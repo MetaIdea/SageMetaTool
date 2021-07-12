@@ -11,6 +11,8 @@ Key features (singleplayer focused, multiplayer untested, all aspects WIP):
 - Powerfull ingame lua script console (Useable commands: https://pastebin.com/xHHGCVZ1)
 - Heavy extension of the sage lua framework, fix of player and coordinate parameters, register of every object to be accessible via lua
 - Complete Lua scripting framework for C&C generals zero hour (Useable commands: https://pastebin.com/M4wZcJKv)
+- CNC Online and T3A Online implemented 
+- 
 
 
 Supported games:
@@ -32,6 +34,9 @@ Not yet supported missing sage engine games:
 - Command and Conquer 4
 
 # Previews (click the links):
+
+Launcher:
+![preview](https://user-images.githubusercontent.com/26028969/125346654-4c347480-e35a-11eb-8d91-5e75e2fc5558.JPG)
 
 Gamemode menu:
 
