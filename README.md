@@ -37,6 +37,7 @@ Not yet supported missing sage engine games:
 A special thanks goes to:
 
 - tomsons26
+- LanYi
 - Darth Jane
 - OmniBlade
 - OpenSage team
