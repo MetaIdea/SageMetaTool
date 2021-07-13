@@ -33,6 +33,14 @@ Not yet supported missing sage engine games:
 - Lord of the Rings The Battle for Middle-earth 1
 - Command and Conquer 4
 
+
+A special thanks goes to:
+
+tomsons26
+Darth Jane
+OmniBlade
+OpenSage team
+
 # Previews (click the links):
 
 Launcher:
