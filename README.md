@@ -11,28 +11,23 @@ Key features (singleplayer focused, multiplayer untested, all aspects WIP):
 - Powerfull ingame lua script console (Useable commands: https://pastebin.com/xHHGCVZ1)
 - Heavy extension of the sage lua framework, fix of player and coordinate parameters, register of every object to be accessible via lua
 - Complete Lua scripting framework for C&C generals zero hour (Useable commands: https://pastebin.com/M4wZcJKv)
-- CNC Online and T3A Online implemented 
-- 
+- CNC Online and T3A Online implemented (WIP)
 
-
-Supported games:
+Supported games (9/10 sage games, note: also works for all mods):
 
 - Command and Conquer Generals Zero Hour (retail 1.04)
+- Lord of the Rings The Battle for Middle-earth 1 (retail nocd) (WIP)
 - Lord of the Rings The Battle for Middle-earth 2 (retail nocd)
-- Lord of the Rings The Battle for Middle-earth 2 - Rise of the Witch-King (retail nocd, origin)
-- Command and Conquer 3 Tiberium Wars (steam, origin)
-- Command and Conquer 3 Kane's Wrath (steam, origin)
-- Command and Conquer Red Alert 3 (steam, origin)
-- Command and Conquer Red Alert 3 Uprising (steam, origin)
+- Lord of the Rings The Battle for Middle-earth 2 - Rise of the Witch-King (retail nocd)
+- Command and Conquer 3 Tiberium Wars (steam)
+- Command and Conquer 3 Kane's Wrath (steam)
+- Command and Conquer Red Alert 3 (steam)
+- Command and Conquer Red Alert 3 Uprising (steam)
+- Command and Conquer 4 (all versions steam/origin) (WIP)
 
-By using advanced signature (binary pattern) scanning methods all sub versions should be supported as well.
+By using advanced signature (binary pattern) scanning methods all sub versions should be supported as well in the future. There is a chance origin versions work partially or entirely too already.
 
-Not yet supported missing sage engine games:
-
-- Command and Conquer Generals
-- Lord of the Rings The Battle for Middle-earth 1
-- Command and Conquer 4
-
+Only the original Command and Conquer Generals is not yet supported in any way because I strongly believe most use zero hour anyway.
 
 A special thanks goes to:
 
@@ -49,15 +44,15 @@ Launcher:
 
 ![preview](https://user-images.githubusercontent.com/26028969/125347144-dd0b5000-e35a-11eb-9f2a-9577563aceb7.JPG)
 
-Gamemode menu:
+Gamemode menu (video):
 
 [![Video Preview 1](https://img.youtube.com/vi/hn2ikuj7288/0.jpg)](https://www.youtube.com/watch?v=hn2ikuj7288)
 
-First person mode:
+First person mode (video):
 
 [![Video Preview 2](https://img.youtube.com/vi/iyZFXCaPxiU/0.jpg)](https://www.youtube.com/watch?v=iyZFXCaPxiU)
 
-Demonstration of the extended lua scripting framework:
+Demonstration of the extended lua scripting framework (video):
 
 [![Video Preview 3](https://img.youtube.com/vi/sMp1uMzCIdk/0.jpg)](https://www.youtube.com/watch?v=sMp1uMzCIdk)
 
