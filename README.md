@@ -12,6 +12,7 @@ Key features (singleplayer skirmish game focused, multiplayer untested, all aspe
 - Heavy extension of the sage lua framework, fix of player and coordinate parameters, register of every object to be accessible via lua
 - Complete Lua scripting framework for C&C generals zero hour (Useable commands: https://pastebin.com/M4wZcJKv)
 - CNC Online and T3A Online implemented (WIP)
+- New Key remapping menu
 
 Supported games (9/10 sage games, note: also works for all mods):
 
