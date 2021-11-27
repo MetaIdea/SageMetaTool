@@ -2,7 +2,7 @@
 
 A universal dll mod for most sage engine games that brings important engine updates and adds unique new features.
 
-Key features (singleplayer focused, multiplayer untested, all aspects WIP):
+Key features (singleplayer skirmish game focused, multiplayer untested, all aspects WIP):
 - Fluent 60 fps with proper gamespeed
 - Unlimited camera zoom (narrow and wide)
 - Dozens of new unique universal gamemodes compatible with any map + live mod/config loader, all via a completely new skirmish setup sub menu
