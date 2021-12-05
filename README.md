@@ -34,10 +34,8 @@ A special thanks goes to:
 
 - tomsons26
 - LanYi
-- Darth Jane
 - OmniBlade
-- OpenSage team
-- all testers
+- all testers - especially hooten, darkyuri and all others
 
 # Previews (click the links):
 
