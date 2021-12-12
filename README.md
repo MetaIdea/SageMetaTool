@@ -16,6 +16,8 @@ Key features (singleplayer skirmish game focused, multiplayer untested, all aspe
 
 Supported games (9/10 sage games, note: also works for all mods):
 
+![SuppprtedGames](https://user-images.githubusercontent.com/26028969/145710215-ffac9e00-9a3d-4dc6-ae7b-0cbf4d328c0a.PNG)
+
 - Command and Conquer Generals Zero Hour (retail 1.04)
 - Lord of the Rings The Battle for Middle-earth 1 (retail nocd) (WIP)
 - Lord of the Rings The Battle for Middle-earth 2 (retail nocd)
