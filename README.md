@@ -66,6 +66,38 @@ Lua live script console in C&C generals zero hour:
 
 ![script console](https://user-images.githubusercontent.com/26028969/123272044-af707b00-d501-11eb-86ab-486bd4d24d6a.JPG)
 
+Unit customizer/colorizer
+
+![LiveColorizer](https://user-images.githubusercontent.com/26028969/145855539-22588b43-c8fd-4d02-948c-9002ddf58162.JPG)
+
+Demonstration of the powerfull (gamemode-) scripting capabilities: Maze Generator !
+
+![hugemaze](https://user-images.githubusercontent.com/26028969/145855806-e2f4a6a7-9ae3-4e44-8e20-909122cfa71f.JPG)
+
+ Drone Swarm - from the intelligent drone swarm gamemode script.
+
+ ![DroneSwarm2](https://user-images.githubusercontent.com/26028969/145855915-13852ab0-6e34-4ae6-926d-b5c690e2a79d.JPG)
+
+ Defend the spiral spawner gamemode preview:
+
+ ![Unbenannt3](https://user-images.githubusercontent.com/26028969/145856100-ba3cfb64-fe96-4078-a317-d1d75177fec5.JPG)
+
+New skirmish setup config/gamemode/mod selector sub menu, here for red alert 3:
+
+![Unbenannt](https://user-images.githubusercontent.com/26028969/145856224-103ede5d-6fff-4aab-96c7-5cc396c716f3.JPG)
+
+Lua scripting in RA3:
+
+![ra3](https://user-images.githubusercontent.com/26028969/145856291-79c88baf-66e8-4e8c-a774-ade5ea1c234f.PNG)
+
+Gamemode system and usage:
+
+![smt-gamemodes](https://user-images.githubusercontent.com/26028969/145856442-aaf583da-d01e-4f18-8363-15f61b713620.jpg)
+
+Simplified Venn diagram to see the relation of SMT to other sage engine related projetcs: 
+
+![venn](https://user-images.githubusercontent.com/26028969/145856762-990a5387-37e8-4b12-8ca6-f6463dd5f231.png)
+
 # More
 
 [![Discord](https://discord.com/assets/ff41b628a47ef3141164bfedb04fb220.png)](https://discord.gg/3vEazayfaV)
