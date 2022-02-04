@@ -18,7 +18,7 @@ Supported games (9/10 sage games, note: also works for all mods):
 
 ![SuppprtedGames](https://user-images.githubusercontent.com/26028969/145710215-ffac9e00-9a3d-4dc6-ae7b-0cbf4d328c0a.PNG)
 
-- Command and Conquer Generals Zero Hour (retail 1.04)
+- Command and Conquer Generals Zero Hour (retail 1.04 or nocd) (WIP, lacks proper gamespeed)
 - Lord of the Rings The Battle for Middle-earth 1 (retail nocd) (WIP)
 - Lord of the Rings The Battle for Middle-earth 2 (retail nocd)
 - Lord of the Rings The Battle for Middle-earth 2 - Rise of the Witch-King (retail nocd)
