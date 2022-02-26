@@ -8,6 +8,7 @@ Key features (singleplayer skirmish game focused, multiplayer untested, all aspe
 - Dozens of new unique universal gamemodes compatible with any map + live mod/config loader, all via a completely new skirmish setup sub menu
 - First and third person mode with real WASD unit control (C&C renegade vibes)
 - Meta control ingame sandbox menu to change countless different options including object spawner menu, unit colorizer, AI live adjusting/scripting
+- Spawner menu auto loads all game objects available even from mods in BFME2, ROTWK and Zero Hour. 
 - Powerfull ingame lua script console (Useable commands: https://pastebin.com/xHHGCVZ1)
 - Heavy extension of the sage lua framework, fix of player and coordinate parameters, register of every object to be accessible via lua
 - Complete Lua scripting framework for C&C generals zero hour (Useable commands: https://pastebin.com/M4wZcJKv)
@@ -89,6 +90,10 @@ New skirmish setup config/gamemode/mod selector sub menu, here for red alert 3:
 Lua scripting in RA3:
 
 ![ra3](https://user-images.githubusercontent.com/26028969/145856291-79c88baf-66e8-4e8c-a774-ade5ea1c234f.PNG)
+
+Quick access buttons ingame (appear when map started):
+
+![3](https://user-images.githubusercontent.com/26028969/155856496-898c3df1-3313-4f24-93cc-4d7ba00fa710.PNG)
 
 Gamemode system and usage:
 
