@@ -107,7 +107,7 @@ Simplified Venn diagram to see the relation of SMT to other sage engine related 
 
 [![Discord](https://discord.com/assets/ff41b628a47ef3141164bfedb04fb220.png)](https://discord.gg/3vEazayfaV)
 
-Get direct access to the latest build of the tool by becoming a Patron and support the project longterm if you believe in my vision:
+Here you can become a Patron and support the project short- or longterm if you believe in my vision to enhance our beloved games:
 
 [![Patreon](https://not2grand.co.uk/wp-content/uploads/2018/07/patreon-logo.png)](https://www.patreon.com/metaidea)
 
