@@ -2,7 +2,7 @@
 
 github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
 ko_fi: metaidea
-custom: ['https://www.paypal.me/meta888']
+custom: #
 patreon: metaidea
 open_collective: # Replace with a single Open Collective username
 tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
