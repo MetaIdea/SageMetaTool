@@ -116,4 +116,3 @@ Here you can become a Patron and support the project short- or longterm if you b
 
 [![Patreon](https://not2grand.co.uk/wp-content/uploads/2018/07/patreon-logo.png)](https://www.patreon.com/metaidea)
 
-[![Donate](https://www.paypalobjects.com/webstatic/i/logo/rebrand/ppcom.svg)](https://www.paypal.me/meta888)
