@@ -2,7 +2,7 @@
 
 A universal dll mod for most sage engine games that brings important engine updates and adds unique new features.
 
-Key features (singleplayer skirmish game focused, multiplayer untested, all aspects WIP):
+Key features:
 - Fluent 60 fps with proper gamespeed
 - Unlimited camera zoom (narrow and wide)
 - Dozens of new unique universal gamemodes compatible with any map + live mod/config loader, all via a completely new skirmish setup sub menu
@@ -12,14 +12,16 @@ Key features (singleplayer skirmish game focused, multiplayer untested, all aspe
 - Powerfull ingame lua script console (Useable commands: https://pastebin.com/xHHGCVZ1)
 - Heavy extension of the sage lua framework, fix of player and coordinate parameters, register of every object to be accessible via lua
 - Complete Lua scripting framework for C&C generals zero hour (Useable commands: https://pastebin.com/M4wZcJKv)
-- CNC Online and T3A Online implemented (WIP)
+- CNC Online and T3A Online implemented
 - New Key remapping menu
+- Skirmish/Campaign/Multiplayer support in most games with version 0.5+
+- Integrated mod launcher for Red Alert 3 and Tiberium Wars mods plus Age of The Ring
 
-Supported games (9/10 sage games, note: also works for all mods):
+Supported games (9/10 sage games, note: also works for all mods automatically):
 
 ![SuppprtedGames](https://user-images.githubusercontent.com/26028969/145710215-ffac9e00-9a3d-4dc6-ae7b-0cbf4d328c0a.PNG)
-
-- Command and Conquer Generals Zero Hour (retail 1.04 or nocd) (WIP, lacks proper gamespeed)
+(Note: Origin and Retail/DVD game versions are now supported as well if you apply the compatibility pack patch. The download link for that is included in the main download.)
+- Command and Conquer Generals Zero Hour (retail 1.04 or nocd) (WIP)
 - Lord of the Rings The Battle for Middle-earth 1 (retail nocd) (WIP)
 - Lord of the Rings The Battle for Middle-earth 2 (retail nocd)
 - Lord of the Rings The Battle for Middle-earth 2 - Rise of the Witch-King (retail nocd)
@@ -29,7 +31,7 @@ Supported games (9/10 sage games, note: also works for all mods):
 - Command and Conquer Red Alert 3 Uprising (steam)
 - Command and Conquer 4 (all versions steam/origin) (WIP)
 
-By using advanced signature (binary pattern) scanning methods all sub versions should be supported as well in the future. There is a chance origin versions work partially or entirely too already.
+By using advanced signature (binary pattern) scanning methods all sub versions should be supported as well in the future.
 
 Only the original Command and Conquer Generals is not yet supported in any way because I strongly believe most use zero hour anyway.
 
