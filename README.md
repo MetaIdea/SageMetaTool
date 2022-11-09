@@ -14,15 +14,15 @@ Key features:
 - Complete Lua scripting framework for C&C generals zero hour (Useable commands: https://pastebin.com/M4wZcJKv)
 - CNC Online and T3A Online implemented
 - New Key remapping menu
-- Skirmish/Campaign/Multiplayer support in most games with version 0.5+
+- Skirmish/Campaign/Multiplayer support in most games with version 0.5+ (BFME1+2 Campaign WIP)
 - Integrated mod launcher for Red Alert 3 and Tiberium Wars mods plus Age of The Ring
 
 Supported games (9/10 sage games, note: also works for all mods automatically):
 
 ![SuppprtedGames](https://user-images.githubusercontent.com/26028969/145710215-ffac9e00-9a3d-4dc6-ae7b-0cbf4d328c0a.PNG)
 (Note: Origin and Retail/DVD game versions are now supported as well if you apply the compatibility pack patch. The download link for that is included in the main download.)
-- Command and Conquer Generals Zero Hour (retail 1.04 or nocd) (WIP)
-- Lord of the Rings The Battle for Middle-earth 1 (retail nocd) (WIP)
+- Command and Conquer Generals Zero Hour (retail 1.04 or nocd)
+- Lord of the Rings The Battle for Middle-earth 1 (retail nocd)
 - Lord of the Rings The Battle for Middle-earth 2 (retail nocd)
 - Lord of the Rings The Battle for Middle-earth 2 - Rise of the Witch-King (retail nocd)
 - Command and Conquer 3 Tiberium Wars (steam)
@@ -37,15 +37,12 @@ Only the original Command and Conquer Generals is not yet supported in any way b
 
 A special thanks goes to:
 
-- tomsons26
-- LanYi
-- OmniBlade
-- all testers - especially hooten, darkyuri and all others
+- all testers and patrons - especially hooten, darkyuri and all others
 
 # Download
 
 A early version can be downloaded [here](https://www.patreon.com/posts/53702342). Please be aware that bugs exist and it's a work in progress project.
-I can't give any guarantee at this point. We have a large and helpfull [community](https://www.patreon.com/posts/52801927) playing and testing SMT currently that might be able to give help and support. Also check out the [wiki](https://github.com/MetaIdea/SageMetaTool/wiki#faq) and it's troubleshooting guide if you have issues using the tool.
+I can't give any guarantee at this point. We have a large and helpfull [community](https://www.patreon.com/posts/52801927) playing and testing SMT currently that might be able to give help and support. Also check out the [wiki](https://github.com/MetaIdea/SageMetaTool/wiki#faq) and it's troubleshooting guide if you have issues using the tool. If you believe in my vision to enhance our beloved games your support is highly appreciated and makes a difference !
 
 # Previews (click the links):
 
@@ -114,7 +111,7 @@ Simplified Venn diagram to see the relation of SMT to other sage engine related 
 
 [![Discord](https://discord.com/assets/ff41b628a47ef3141164bfedb04fb220.png)](https://discord.gg/3vEazayfaV)
 
-Here you can become a Patron and support the project short- or longterm if you believe in my vision to enhance our beloved games:
+Here you can become a Patron and support the project short - or longterm if you believe in my vision to enhance our beloved games:
 
 [![Patreon](https://not2grand.co.uk/wp-content/uploads/2018/07/patreon-logo.png)](https://www.patreon.com/metaidea)
 
