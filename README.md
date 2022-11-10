@@ -99,6 +99,10 @@ Quick access buttons ingame (appear when map started):
 
 ![3](https://user-images.githubusercontent.com/26028969/155856496-898c3df1-3313-4f24-93cc-4d7ba00fa710.PNG)
 
+How to enable Competitive Multiplayer Mode:
+
+![1111](https://user-images.githubusercontent.com/26028969/201093299-d5af8ae8-e072-4cc2-a3b1-6580a09e6d56.PNG)
+
 Gamemode system and usage:
 
 ![smt-gamemodes](https://user-images.githubusercontent.com/26028969/145856442-aaf583da-d01e-4f18-8363-15f61b713620.jpg)
