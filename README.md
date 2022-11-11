@@ -111,6 +111,10 @@ Simplified Venn diagram to see the relation of SMT to other sage engine related 
 
 ![venn](https://user-images.githubusercontent.com/26028969/145856762-990a5387-37e8-4b12-8ca6-f6463dd5f231.png)
 
+Syberts Preview of only the 60 FPS part of a early outdated prototype of the tool:
+
+[![Video Preview Sybert](https://img.youtube.com/vi/atDykrfu-wU/0.jpg)](https://www.youtube.com/watch?v=atDykrfu-wU)
+
 # More
 
 [![Discord](https://discord.com/assets/ff41b628a47ef3141164bfedb04fb220.png)](https://discord.gg/3vEazayfaV)
