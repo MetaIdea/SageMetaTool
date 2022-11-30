@@ -7,6 +7,7 @@ Key features:
 - Unlimited camera zoom (narrow and wide)
 - Dozens of new unique universal gamemodes compatible with any map + live mod/config loader, all via a completely new skirmish setup sub menu
 - First and third person mode with real WASD unit control (C&C renegade vibes)
+- Free camera 'bird' Mode
 - Meta control ingame sandbox menu to change countless different options including object spawner menu, unit colorizer, AI live adjusting/scripting
 - Spawner menu auto loads all game objects available even from mods in BFME2, ROTWK and Zero Hour. 
 - Powerfull ingame lua script console (Useable commands: https://pastebin.com/xHHGCVZ1)
@@ -15,13 +16,13 @@ Key features:
 - CNC Online and T3A Online implemented
 - New Key remapping menu
 - Skirmish/Campaign/Multiplayer support in most games with version 0.5+ (BFME1+2 Campaign WIP)
-- Integrated mod launcher for Red Alert 3 and Tiberium Wars mods plus Age of The Ring
+- Integrated mod launcher for Tiberium Wars, Kane's Wrath, Red Alert 3 mods plus Age of The Ring
 
 Supported games (9/10 sage games, note: also works for all mods automatically):
 
 ![SuppprtedGames](https://user-images.githubusercontent.com/26028969/145710215-ffac9e00-9a3d-4dc6-ae7b-0cbf4d328c0a.PNG)
 (Note: Origin and Retail/DVD game versions are now supported as well if you apply the compatibility pack patch. The download link for that is included in the main download.)
-- Command and Conquer Generals Zero Hour (retail 1.04 or nocd)
+- Command and Conquer Generals Zero Hour (retail 1.04 or nocd, WIP)
 - Lord of the Rings The Battle for Middle-earth 1 (retail nocd)
 - Lord of the Rings The Battle for Middle-earth 2 (retail nocd)
 - Lord of the Rings The Battle for Middle-earth 2 - Rise of the Witch-King (retail nocd)
@@ -49,6 +50,8 @@ I can't give any guarantee at this point. We have a large and helpfull [communit
 Launcher:
 
 ![preview](https://user-images.githubusercontent.com/26028969/125347144-dd0b5000-e35a-11eb-9f2a-9577563aceb7.JPG)
+
+![Works with all your favourite mods](https://user-images.githubusercontent.com/26028969/204860800-02ffb7ff-7b86-42fa-94c3-70f4feff02ac.PNG)
 
 Gamemode menu (video):
 
