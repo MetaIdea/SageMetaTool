@@ -1,4 +1,4 @@
-# SageMetaTool
+# SageMetaTool ![SMT_LOGO_SMALL](https://user-images.githubusercontent.com/26028969/204862762-d60eb930-4acc-4211-a5e4-4744f0ee100a.png)
 
 A universal dll mod for most sage engine games that brings important engine updates and adds unique new features.
 
@@ -50,6 +50,8 @@ I can't give any guarantee at this point. We have a large and helpfull [communit
 Launcher:
 
 ![preview](https://user-images.githubusercontent.com/26028969/125347144-dd0b5000-e35a-11eb-9f2a-9577563aceb7.JPG)
+
+Works with all your favourite mods:
 
 ![Works with all your favourite mods](https://user-images.githubusercontent.com/26028969/204860800-02ffb7ff-7b86-42fa-94c3-70f4feff02ac.PNG)
 
