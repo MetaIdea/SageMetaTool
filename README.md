@@ -45,6 +45,14 @@ A special thanks goes to:
 A early version can be downloaded [here](https://www.patreon.com/posts/53702342). Please be aware that bugs exist and it's a work in progress project.
 I can't give any guarantee at this point. We have a large and helpfull [community](https://www.patreon.com/posts/52801927) playing and testing SMT currently that might be able to give help and support. Also check out the [wiki](https://github.com/MetaIdea/SageMetaTool/wiki#faq) and it's troubleshooting guide if you have issues using the tool. If you believe in my vision to enhance our beloved games your support is highly appreciated and makes a difference !
 
+# Requirements
+
+- Windows 10 or Windows 11 or Windows 8 (because of a XInput 1.4 dependency caused by the "dear ImGUi" framework.
+- 10 MB drive space
+- Ability to run the tool as admin (at least for zero hour to have the new menus enabled)
+- Game versions as stated above or the compatibility patch pack applied (linked in the download)
+- no installation necessary, tool is completely portable and comes as one single handy executable file
+
 # Previews (click the links):
 
 Launcher:
