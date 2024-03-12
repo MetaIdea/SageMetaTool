@@ -18,23 +18,25 @@ Key features:
 - Skirmish/Campaign/Multiplayer support in most games with version 0.5+ (BFME1+2 Campaign WIP)
 - Integrated mod launcher for Tiberium Wars, Kane's Wrath, Red Alert 3 mods plus Age of The Ring
 
-Supported games (9/10 sage games, note: also works for all mods automatically):
+Supported games and platforms (10/10 sage engine games, note: also works for all mods automatically):
 
 ![SuppprtedGames](https://user-images.githubusercontent.com/26028969/145710215-ffac9e00-9a3d-4dc6-ae7b-0cbf4d328c0a.PNG)
-(Note: Origin and Retail/DVD game versions are now supported as well if you apply the compatibility pack patch. The download link for that is included in the main download.)
-- Command and Conquer Generals Zero Hour (retail 1.04 or nocd, WIP)
-- Lord of the Rings The Battle for Middle-earth 1 (retail nocd)
-- Lord of the Rings The Battle for Middle-earth 2 (retail nocd)
-- Lord of the Rings The Battle for Middle-earth 2 - Rise of the Witch-King (retail nocd)
-- Command and Conquer 3 Tiberium Wars (steam)
-- Command and Conquer 3 Kane's Wrath (steam)
-- Command and Conquer Red Alert 3 (steam)
-- Command and Conquer Red Alert 3 Uprising (steam)
-- Command and Conquer 4 (all versions steam/origin) (WIP)
 
+| GAME	                                                                   | Steam | EA App/Origin | Retail/CD/DVD |
+| ------------------------------------------------------------------------ | :---: | :-----------: | :-----------: |
+| Command and Conquer Generals                                             | ✅    | ❎            | ✅            |
+| Command and Conquer Generals Zero Hour                                   | ✅    | ❎            | ✅            |
+| Command and Conquer 3 Tiberium Wars                                      | ✅    | ❎            | ❎            |
+| Command and Conquer 3 Kane's Wrath                                       | ✅    | ❎            | ❎            |
+| Command and Conquer Red Alert 3                                          | ✅    | ❎            | ❎            |
+| Command and Conquer Red Alert 3 Uprising                                 | ✅    | ❎            | ❎            |
+| Command and Conquer 4                                                    | ✅    | ✅            | ✅            |
+| Lord of the Rings: The Battle for Middle-earth 1                         | -     | -             | ✅*           |
+| Lord of the Rings: The Battle for Middle-earth 2                         | -     | -             | ✅*           |
+| Lord of the Rings The Battle for Middle-earth 2 - Rise of the Witch-King | -     | ✅            | ✅*           |
+
+Unsupported versions can be made compatible with a compatibility pack patch. The download link for that is included in the main download.
 By using advanced signature (binary pattern) scanning methods all sub versions should be supported as well in the future.
-
-Only the original Command and Conquer Generals is not yet supported in any way because I strongly believe most use zero hour anyway.
 
 A special thanks goes to:
 
@@ -47,13 +49,21 @@ I can't give any guarantee at this point. We have a large and helpfull [communit
 
 # Requirements
 
-- Windows 10 or Windows 11 or Windows 8 (because of a XInput 1.4 dependency caused by the "dear ImGUi" framework.
-- 10 MB drive space
+- Windows 10 or Windows 11 or Windows 8 (because of a XInput 1.4 dependency caused by the "dear ImGUi" framework)
+- 12 MB drive space
 - Ability to run the tool as admin (at least for zero hour to have the new menus enabled)
 - Game versions as stated above or the compatibility patch pack applied (linked in the download)
-- no installation necessary, tool is completely portable and comes as one single handy executable file
+- No installation necessary, tool is completely portable and comes as one single handy executable file
 
 # Previews (click the links):
+
+Gameplay by Trash Panda with SageMetaTool:
+
+[![Video Preview Sybert](https://img.youtube.com/vi/oTZz1GMJpaA/0.jpg)](https://youtu.be/oTZz1GMJpaA)
+
+Syberts Preview of only the 60 FPS part of a early outdated prototype of the tool:
+
+[![Video Preview Sybert](https://img.youtube.com/vi/atDykrfu-wU/0.jpg)](https://www.youtube.com/watch?v=atDykrfu-wU)
 
 Launcher:
 
@@ -123,10 +133,6 @@ Gamemode system and usage:
 Simplified Venn diagram to see the relation of SMT to other sage engine related projetcs: 
 
 ![venn](https://user-images.githubusercontent.com/26028969/145856762-990a5387-37e8-4b12-8ca6-f6463dd5f231.png)
-
-Syberts Preview of only the 60 FPS part of a early outdated prototype of the tool:
-
-[![Video Preview Sybert](https://img.youtube.com/vi/atDykrfu-wU/0.jpg)](https://www.youtube.com/watch?v=atDykrfu-wU)
 
 # More
 
