@@ -1,22 +1,25 @@
 # SageMetaTool ![SMT_LOGO_SMALL](https://user-images.githubusercontent.com/26028969/204862762-d60eb930-4acc-4211-a5e4-4744f0ee100a.png)
 
-A universal dll mod for most sage engine games that brings important engine updates and adds unique new features.
+A universal engine extending launcher tool for ALL sage engine games that brings important engine updates and adds unique new features.
 
-Key features:
-- Fluent 60 fps with proper gamespeed - a dream finally come true
-- Unlimited camera zoom (narrow and wide)
+Key features Sage Meta Tool (SMT):
+- Fluent 60 FPS (Frames Per Second) with proper gamespeed - a dream finally come true -> QOL alltime top 1 request
+- Unlimited camera zoom (narrow and wide) -> QOL alltime top 2 request
+- Widescreen support and any native system resolution -> QOL alltime top 3 request
+- CNC Online and T3A Online fully included -> QOL alltime top 4 request
+- Integrated mod launcher that autodetects your mods
 - Dozens of new unique universal gamemodes compatible with any map + live mod/config loader, all via a completely new skirmish setup sub menu
 - First and third person mode with real WASD unit control (C&C renegade vibes)
 - Free camera 'bird' Mode
 - Meta control ingame sandbox menu to change countless different options including object spawner menu, unit colorizer, AI live adjusting/scripting
-- Spawner menu auto loads all game objects available even from mods in BFME2, ROTWK and Zero Hour. 
-- Powerfull ingame lua script console (Useable commands: https://pastebin.com/xHHGCVZ1)
+- Spawner menu auto loads all game objects available even from mods in BFME2, ROTWK, Generals and Zero Hour. 
+- Powerfull ingame lua script console -> [Useable commands](https://pastebin.com/xHHGCVZ1)
 - Heavy extension of the sage lua framework, fix of player and coordinate parameters, register of every object to be accessible via lua
-- Complete Lua scripting framework for C&C generals zero hour (Useable commands: https://pastebin.com/M4wZcJKv)
-- CNC Online and T3A Online implemented
+- Complete Lua scripting framework for C&C generals zero hour -> [Useable commands](https://github.com/MetaIdea/SageMetaTool/wiki/CNC-Generals-Zero-hour---Lua-Functions#executeactionevaluatecondition)
 - New Key remapping menu
 - Skirmish/Campaign/Multiplayer support in most games with version 0.5+ (BFME1+2 Campaign WIP)
-- Integrated mod launcher for Tiberium Wars, Kane's Wrath, Red Alert 3 mods plus Age of The Ring
+- Completely portable single exe based tool, no install necessary
+- Simple usage: Run games from own launcher that autodetects all compatible games or run from game folder directly
 
 Supported games and platforms (10/10 sage engine games, note: also works for all mods automatically):
 -> Supports both the Steam and EA App CNC Ultimate Collection now !
@@ -52,9 +55,11 @@ I can't give any guarantee at this point. We have a large and helpfull [communit
 
 - Windows 10 or Windows 11 or Windows 8 (because of a XInput 1.4 dependency caused by the "dear ImGUi" framework)
 - 12 MB drive space
-- Ability to run the tool as admin (at least for zero hour to have the new menus enabled)
+- Ability to run the tool as admin if you choose the start from game folder method
 - Game versions as stated above or the compatibility patch pack applied (linked in the download)
 - No installation necessary, tool is completely portable and comes as one single handy executable file
+- If your AV or windows defender freaks out you can be sure it is a false positive alarm and you can add the tool to the exclusion list
+(this is due to the nature of the tool being able to hook into the games process to do it's job, e.g. gentool has the same issues)
 
 # Previews (click the links):
 
