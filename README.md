@@ -19,17 +19,18 @@ Key features:
 - Integrated mod launcher for Tiberium Wars, Kane's Wrath, Red Alert 3 mods plus Age of The Ring
 
 Supported games and platforms (10/10 sage engine games, note: also works for all mods automatically):
+-> Supports both the Steam and EA App CNC Ultimate Collection now !
 
 ![SuppprtedGames](https://user-images.githubusercontent.com/26028969/145710215-ffac9e00-9a3d-4dc6-ae7b-0cbf4d328c0a.PNG)
 
 | GAME	                                                                   | Steam | EA App/Origin | Retail/CD/DVD |
 | ------------------------------------------------------------------------ | :---: | :-----------: | :-----------: |
-| Command and Conquer Generals                                             | ✅    | ❎            | ✅            |
-| Command and Conquer Generals Zero Hour                                   | ✅    | ❎            | ✅            |
-| Command and Conquer 3 Tiberium Wars                                      | ✅    | ❎            | ❎            |
-| Command and Conquer 3 Kane's Wrath                                       | ✅    | ❎            | ❎            |
-| Command and Conquer Red Alert 3                                          | ✅    | ❎            | ❎            |
-| Command and Conquer Red Alert 3 Uprising                                 | ✅    | ❎            | ❎            |
+| Command and Conquer Generals                                             | ✅    | ✅            | ✅            |
+| Command and Conquer Generals Zero Hour                                   | ✅    | ✅            | ✅            |
+| Command and Conquer 3 Tiberium Wars                                      | ✅    | ✅            | ❎            |
+| Command and Conquer 3 Kane's Wrath                                       | ✅    | ✅            | ❎            |
+| Command and Conquer Red Alert 3                                          | ✅    | ✅            | ❎            |
+| Command and Conquer Red Alert 3 Uprising                                 | ✅    | ✅            | ❎            |
 | Command and Conquer 4                                                    | ✅    | ✅            | ✅            |
 | Lord of the Rings: The Battle for Middle-earth 1                         | -     | -             | ✅*           |
 | Lord of the Rings: The Battle for Middle-earth 2                         | -     | -             | ✅*           |
